@@ -26,9 +26,6 @@ const Home = () => {
       <div id="education">
         <Education></Education>
       </div>
-      <div id="experience">
-        <Experience></Experience>
-      </div>
       <div id="services">
         <Services></Services>
       </div>

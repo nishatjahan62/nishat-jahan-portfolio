@@ -13,7 +13,6 @@ const primaryLinks = [
 
 const moreLinks = [
   { id: "education", title: "Education" },
-  { id: "experience", title: "Experience" },
   { id: "contact", title: "Contact" },
   { id: "services", title: "Services" },
 ];
